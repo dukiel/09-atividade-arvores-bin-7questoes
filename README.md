@@ -1,6 +1,7 @@
 # Árvores Binárias — Lista de Exercícios (7 questoes )
 
-Implementação em C++ dos exercícios de árvores binárias
+Aluno: Daniel Luiz Cardoso
+Matéria: Estrutura de Dados
 
 ## Arquivos do projeto
 
