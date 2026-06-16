@@ -1,14 +1,12 @@
-# Árvores Binárias — Lista de Exercícios
+# Árvores Binárias — Lista de Exercícios (7 questoes )
 
-Implementação em C++ dos exercícios de árvores binárias da disciplina de Estruturas de Dados.
-
-O projeto usa um TAD simples, separado em arquivo de cabeçalho (`.h`), implementação (`.cpp`) e arquivo principal (`main`).
+Implementação em C++ dos exercícios de árvores binárias
 
 ## Arquivos do projeto
 
-- **`ex07_main.cpp`** — cria a árvore e testa todos os exercícios
-- **`ex07_arvore_tad.h`** — define o nó da árvore e declara as funções
-- **`ex07_arvore_tad.cpp`** — implementa as funções do TAD
+- **`main.cpp`** — testa tudo
+- **`arvore.h`** — inicia as funções
+- **`arvore.cpp`** — implementa
 
 ## Exercícios implementados
 
